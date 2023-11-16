@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\ReverseSort_Words\ReverseSort_Words\bin\Debug\net6.0\ReverseSort_Words.exe
+C:\Users\Admin\Desktop\ReverseSort_Words\ReverseSort_Words\bin\Debug\net6.0\ReverseSort_Words.deps.json
+C:\Users\Admin\Desktop\ReverseSort_Words\ReverseSort_Words\bin\Debug\net6.0\ReverseSort_Words.runtimeconfig.json
+C:\Users\Admin\Desktop\ReverseSort_Words\ReverseSort_Words\bin\Debug\net6.0\ReverseSort_Words.dll
+C:\Users\Admin\Desktop\ReverseSort_Words\ReverseSort_Words\bin\Debug\net6.0\ReverseSort_Words.pdb
+C:\Users\Admin\Desktop\ReverseSort_Words\ReverseSort_Words\obj\Debug\net6.0\ReverseSort_Words.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ReverseSort_Words\ReverseSort_Words\obj\Debug\net6.0\ReverseSort_Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ReverseSort_Words\ReverseSort_Words\obj\Debug\net6.0\ReverseSort_Words.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ReverseSort_Words\ReverseSort_Words\obj\Debug\net6.0\ReverseSort_Words.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ReverseSort_Words\ReverseSort_Words\obj\Debug\net6.0\ReverseSort_Words.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ReverseSort_Words\ReverseSort_Words\obj\Debug\net6.0\ReverseSort_Words.dll
+C:\Users\Admin\Desktop\ReverseSort_Words\ReverseSort_Words\obj\Debug\net6.0\refint\ReverseSort_Words.dll
+C:\Users\Admin\Desktop\ReverseSort_Words\ReverseSort_Words\obj\Debug\net6.0\ReverseSort_Words.pdb
+C:\Users\Admin\Desktop\ReverseSort_Words\ReverseSort_Words\obj\Debug\net6.0\ReverseSort_Words.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ReverseSort_Words\ReverseSort_Words\obj\Debug\net6.0\ref\ReverseSort_Words.dll
